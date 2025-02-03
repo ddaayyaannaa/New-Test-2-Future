@@ -7,3 +7,14 @@ node index.js
 ```
 
 Make sure to have node installed.
+
+## Project structure
+```bash
+src/
+  ├── services/
+  │   └──fizzBuzzService.js
+  ├── utils/
+  │   └── fileHandler.js
+  │   └── primeChecker.js
+  └── index.js
+```
